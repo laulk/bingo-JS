@@ -5,12 +5,12 @@ body {
 }
 
 h1 {
-    font-size: 3em;
+    font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
 h2 {
-	font-size: 2em;
+	font-size: 1.5em;
 	font-family: Futura;
 	font-weight: lighter;
 
@@ -24,7 +24,7 @@ p3 {
 p, button, input {
 	font-family: Futura;
 	font-weight: lighter;
-    font-size: 1.5em;
+    font-size: 1em;
     line-height: 1.4em;
     color: black;
 	margin-bottom:1em;
@@ -33,8 +33,9 @@ p, button, input {
 #gameboard {
 	position:relative;
 	margin:0 auto 2em auto;
-	width:500px;
-	height:500px;
+	width:400px;
+	height:400px;
+	margin-bottom: 0px;
 }
 
 #gameboard div {
